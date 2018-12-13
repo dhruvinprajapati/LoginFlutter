@@ -37,7 +37,7 @@ class _loginpageState extends State<loginpage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 new FlutterLogo(
-                  size: 150.0,
+                  size: 130.0,
 
                 )
               ],
